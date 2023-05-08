@@ -1,5 +1,7 @@
-# 
-## vuetify-3-template
+# 蓝楹会官网前端重建 website_devlopment_front
+
+
+## 使用 vuetify-3-template 模板
 
 This template should help get you started developing with Vuetify 3 in Vite using Typescript.
 
@@ -24,7 +26,7 @@ This template should help get you started developing with Vuetify 3 in Vite usin
 Clone this project using
 
 ```bash
-git clone https://github.com/boussadjra/vuetify-3-template
+git clone https://github.com/jacarandastock/website_devlopment_front.git
 ```
 
 change directory to the project folder
