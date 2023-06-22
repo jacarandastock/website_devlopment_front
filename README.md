@@ -32,7 +32,7 @@ git clone https://github.com/jacarandastock/website_devlopment_front.git
 change directory to the project folder
 
 ```bash
-cd vuetify-3-template
+cd website_devlopment_front
 ```
 
 Install dependencies
