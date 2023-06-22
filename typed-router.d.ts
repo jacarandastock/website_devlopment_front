@@ -43,9 +43,6 @@ declare module 'vue-router/auto/routes' {
     '/dashboard/overview/components/StatCardOverview': RouteRecordInfo<'/dashboard/overview/components/StatCardOverview', '/dashboard/overview/components/StatCardOverview', Record<never, never>, Record<never, never>>,
     '/dashboard/rentals/': RouteRecordInfo<'/dashboard/rentals/', '/dashboard/rentals', Record<never, never>, Record<never, never>>,
     '/home/': RouteRecordInfo<'/home/', '/home', Record<never, never>, Record<never, never>>,
-    '/home/components/Features/': RouteRecordInfo<'/home/components/Features/', '/home/components/Features', Record<never, never>, Record<never, never>>,
-    '/home/components/Features/FeatureCard': RouteRecordInfo<'/home/components/Features/FeatureCard', '/home/components/Features/FeatureCard', Record<never, never>, Record<never, never>>,
-    '/home/components/hero/Hero': RouteRecordInfo<'/home/components/hero/Hero', '/home/components/hero/Hero', Record<never, never>, Record<never, never>>,
   }
 }
 

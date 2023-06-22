@@ -1,29 +1,32 @@
-<script setup lang="ts">
-import Features from './components/Features/index.vue'
-import Hero from './components/hero/Hero.vue'
+<template>
+  <div>
+    <v-carousel cycle interval="3000" hide-delimiters show-arrows="hover">
+      <v-carousel-item
+          src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+          cover
+      ></v-carousel-item>
 
-useHead({
-    title: 'Home',
-    meta: [
-        {
-            name: 'description',
-            content: 'This is the home page',
-        },
-    ],
-})
+      <v-carousel-item
+          src="https://cdn.vuetifyjs.com/images/cards/hotel.jpg"
+          cover
+      ></v-carousel-item>
+
+      <v-carousel-item
+          src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+          cover
+      ></v-carousel-item>
+    </v-carousel>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "index"
+}
 </script>
 
-<template>
-    <v-main>
-        <v-container class="h-100 d-flex flex-column justify-center align-center">
-            <Hero />
-            <Features />
-            <Settings />
-        </v-container>
-    </v-main>
-</template>
-<style scoped></style>
+
 <route lang="yaml">
 meta:
-    layout: HomeLayout
+  layout: HomeLayout
 </route>

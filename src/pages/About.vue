@@ -13,3 +13,8 @@
   }
 }
 </style>
+
+<route lang="yaml">
+meta:
+  layout: HomeLayout
+</route>

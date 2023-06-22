@@ -26,19 +26,19 @@ dashboard:
     rentalFrequency: Rental frequency
 
 home:
-  title: Home
+  title: 首页
 
 about:
-  title: About
+  title: 关于蓝楹会
 
 introduce:
-  title: Introduce
+  title: 业务介绍
 
 relationship:
-  title: Relationship
+  title: 投资者关系
 
 joinUs:
-  title: Join us
+  title: 加入蓝楹会
 
 error:
   pageNotFound: Page not found
