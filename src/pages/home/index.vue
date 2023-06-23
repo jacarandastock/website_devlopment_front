@@ -16,12 +16,26 @@
           cover
       ></v-carousel-item>
     </v-carousel>
+
+    <category-banner title="业务版图" subtitle="BUSINESS MAP"/>
+
+    <v-col>
+      <v-row>
+
+      </v-row>
+    </v-col>
+
   </div>
 </template>
 
 <script>
+
+
+import CategoryBanner from "@/pages/home/compoments/CategoryBanner.vue";
+
 export default {
-  name: "index"
+  name: "index",
+  components: {CategoryBanner}
 }
 </script>
 

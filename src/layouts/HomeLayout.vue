@@ -33,7 +33,7 @@ const headerItems = computed(() => [
     <v-layout>
       <v-app-bar>
         <div class="px-2 flex items-center">
-          <Logo :width="50" :height="40"/>
+          <Logo :width="200" :height="41"/>
         </div>
         <v-spacer></v-spacer>
         <v-btn
