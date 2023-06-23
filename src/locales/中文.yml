@@ -28,6 +28,7 @@ dashboard:
 home:
   title: 首页
   learnMore: 了解更多
+  publicArticles: 发布文章
 
 about:
   title: 关于蓝楹会
