@@ -27,6 +27,7 @@ dashboard:
 
 home:
   title: Home
+  learnMore: Learn more
 
 about:
   title: About

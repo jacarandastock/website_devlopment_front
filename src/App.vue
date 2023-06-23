@@ -1,7 +1,7 @@
 <script setup lang="ts">
 useHead({
-    title: 'Vuetify 3 template',
-    meta: [{ name: 'description', content: 'Opinionated Vuetify Starter Template' }],
+    title: '蓝楹会 Jacaranda Stock Market Society',
+    meta: [{ name: 'description', content: 'Jacaranda Stock Market Society Homepage' }],
 })
 
 onInitApp()

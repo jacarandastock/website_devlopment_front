@@ -1,5 +1,6 @@
+<!-- 用于首页展示每个区块的名字和英文的组件 -->
 <template>
-  <div class="d-flex justify-center my-15">
+  <div class="d-flex justify-center mt-15 mb-5">
     <div class="d-flex flex-column align-center justify-center">
       <div class="text-h5">
         {{ title }}
