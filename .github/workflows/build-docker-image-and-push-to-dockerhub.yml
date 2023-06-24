@@ -52,4 +52,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: my-docker-hub-namespace/my-docker-hub-repository:${{ github.sha }}
+          tags: jacarandastock/website_devlopment_front:${{ github.sha }}
