@@ -39,15 +39,8 @@ declare module 'vue-router/auto/routes' {
     '/[...all]': RouteRecordInfo<'/[...all]', '/:all(.*)', { all: ParamValue<true> }, { all: ParamValue<false> }>,
     '/About': RouteRecordInfo<'/About', '/About', Record<never, never>, Record<never, never>>,
     '/dashboard/overview/': RouteRecordInfo<'/dashboard/overview/', '/dashboard/overview', Record<never, never>, Record<never, never>>,
-    '/dashboard/overview/components/RentalFrequency': RouteRecordInfo<'/dashboard/overview/components/RentalFrequency', '/dashboard/overview/components/RentalFrequency', Record<never, never>, Record<never, never>>,
-    '/dashboard/overview/components/StatCardOverview': RouteRecordInfo<'/dashboard/overview/components/StatCardOverview', '/dashboard/overview/components/StatCardOverview', Record<never, never>, Record<never, never>>,
     '/dashboard/rentals/': RouteRecordInfo<'/dashboard/rentals/', '/dashboard/rentals', Record<never, never>, Record<never, never>>,
     '/home/': RouteRecordInfo<'/home/', '/home', Record<never, never>, Record<never, never>>,
-    '/home/compoments/ArticleHorizontalLabel': RouteRecordInfo<'/home/compoments/ArticleHorizontalLabel', '/home/compoments/ArticleHorizontalLabel', Record<never, never>, Record<never, never>>,
-    '/home/compoments/BusinessContents': RouteRecordInfo<'/home/compoments/BusinessContents', '/home/compoments/BusinessContents', Record<never, never>, Record<never, never>>,
-    '/home/compoments/BusinessMap': RouteRecordInfo<'/home/compoments/BusinessMap', '/home/compoments/BusinessMap', Record<never, never>, Record<never, never>>,
-    '/home/compoments/CategoryBanner': RouteRecordInfo<'/home/compoments/CategoryBanner', '/home/compoments/CategoryBanner', Record<never, never>, Record<never, never>>,
-    '/home/compoments/DataSlideGroups': RouteRecordInfo<'/home/compoments/DataSlideGroups', '/home/compoments/DataSlideGroups', Record<never, never>, Record<never, never>>,
   }
 }
 

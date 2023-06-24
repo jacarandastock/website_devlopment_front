@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy to Github Pages
 on:
   push:
     branches:
@@ -39,3 +39,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+      - name: Prepare for GitHub Pages
+        run: cp dist/index.html dist/404.html
+

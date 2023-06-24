@@ -18,6 +18,7 @@ export default defineConfig({
     plugins: [
         VueRouter({
             /* options */
+            exclude: ['**/components/**'],
         }),
         vue(),
         vueJsx(),
