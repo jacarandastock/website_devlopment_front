@@ -1,9 +1,9 @@
 <script setup lang="ts">
 
-import CategoryBanner from "@/pages/home/compoments/CategoryBanner.vue";
-import BusinessMap from "@/pages/home/compoments/BusinessMap.vue";
-import BusinessContents from "@/pages/home/compoments/BusinessContents.vue";
-import DataSlideGroups from "@/pages/home/compoments/DataSlideGroups.vue";
+import CategoryBanner from "@/pages/home/components/CategoryBanner.vue";
+import BusinessMap from "@/pages/home/components/BusinessMap.vue";
+import BusinessContents from "@/pages/home/components/BusinessContents.vue";
+import DataSlideGroups from "@/pages/home/components/DataSlideGroups.vue";
 
 import {computed} from 'vue';
 

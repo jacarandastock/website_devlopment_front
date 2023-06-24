@@ -9,9 +9,11 @@ export {}
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
-    FeatureCard: typeof import('./pages/home/components/Features/FeatureCard.vue')['default']
-    Features: typeof import('./pages/home/components/Features/index.vue')['default']
-    Hero: typeof import('./pages/home/components/hero/Hero.vue')['default']
+    ArticleHorizontalLabel: typeof import('./pages/home/components/ArticleHorizontalLabel.vue')['default']
+    BusinessContents: typeof import('./pages/home/components/BusinessContents.vue')['default']
+    BusinessMap: typeof import('./pages/home/components/BusinessMap.vue')['default']
+    CategoryBanner: typeof import('./pages/home/components/CategoryBanner.vue')['default']
+    DataSlideGroups: typeof import('./pages/home/components/DataSlideGroups.vue')['default']
     LocaleToggler: typeof import('./components/blocks/LocaleToggler.vue')['default']
     Logo: typeof import('./components/blocks/Logo.vue')['default']
     RentalFrequency: typeof import('./pages/dashboard/overview/components/RentalFrequency.vue')['default']

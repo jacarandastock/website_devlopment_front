@@ -4,7 +4,7 @@ useHead({
     meta: [{ name: 'description', content: 'Jacaranda Stock Market Society Homepage' }],
 })
 
-onInitApp()
+onInitApp();
 </script>
 
 <template>

@@ -15,9 +15,13 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+    base: process.env.DEPLOY_ENV === 'gh-pages'
+        ? '/website_devlopment_front/'
+        : '/',
     plugins: [
         VueRouter({
             /* options */
+            exclude: ['**/components/**'],
         }),
         vue(),
         vueJsx(),
