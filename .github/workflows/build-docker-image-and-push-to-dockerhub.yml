@@ -1,9 +1,8 @@
-name: Docker Image CI
+name: Build and Push Docker Image
 
 on:
-  pull_request:
+  push:
     branches: [ "main" ]
-  workflow_dispatch:
 
 jobs:
   dependency-check:
@@ -31,13 +30,26 @@ jobs:
 
       - name: Build project
         run: yarn build
-        
-  build:
+
+  build-and-push:
     needs: dependency-check
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag website_devlopment_front:$(date +%s)
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Build and push Docker image
+        id: docker_build
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: my-docker-hub-namespace/my-docker-hub-repository:${{ github.sha }}
