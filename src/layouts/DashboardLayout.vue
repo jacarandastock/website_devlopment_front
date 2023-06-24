@@ -1,8 +1,8 @@
 <script setup lang="ts">
-const { t, locale } = useI18n()
-const drawer = ref(true)
-const activeItem = ref('dashboard-overview')
-const rail = ref(false)
+const { t, locale } = useI18n();
+const drawer = ref(true);
+const activeItem = ref('dashboard-overview');
+const rail = ref(false);
 const sidebarItems = computed(() => [
     {
         title: t('dashboard.sidebar.dashboard-overview'),
