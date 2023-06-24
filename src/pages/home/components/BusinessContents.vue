@@ -1,7 +1,7 @@
 <script setup lang="ts">
 
 
-import ArticleHorizontalLabel from "@/pages/home/compoments/ArticleHorizontalLabel.vue";
+import ArticleHorizontalLabel from "@/pages/home/components/ArticleHorizontalLabel.vue";
 </script>
 
 <template>
