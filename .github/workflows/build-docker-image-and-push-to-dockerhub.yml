@@ -5,6 +5,27 @@ on:
     branches: [ "main" ]
 
 jobs:
+  dependency-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*'
+      - name: Cache Yarn cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/yarn
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+      - name: Build project
+        run: yarn build
+
   build-and-push:
     needs: dependency-check
     runs-on: ubuntu-latest
