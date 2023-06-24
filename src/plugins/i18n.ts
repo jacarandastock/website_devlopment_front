@@ -11,9 +11,14 @@ const messages = Object.fromEntries(
     })
 )
 
+let browserLocale = window.navigator.language.split('-')[0] || 'en'
+// Set the initial locale to the user's browser locale if it's available in our translations, or default to 'en'
+const initialLocale = Object.keys(messages).includes(browserLocale) ? browserLocale : '中文'
+
+
 const i18n = createI18n({
     legacy: false,
-    locale: 'en',
+    locale: initialLocale,
     messages,
 })
 
