@@ -29,8 +29,8 @@ const businessMap = computed(() => [
 <template>
   <v-container>
     <v-row>
-      <v-col v-for="item in businessMap">
-        <v-card width="270" rounded="2">
+      <v-col v-for="item in businessMap" cols="12" sm="6" md="6" lg="3" xl="3">
+        <v-card rounded="2">
           <template v-slot:title>
             <div class="custom-title">
               {{ item.title}}
