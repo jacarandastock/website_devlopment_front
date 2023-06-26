@@ -4,51 +4,18 @@ import CategoryBanner from "@/pages/home/components/CategoryBanner.vue";
 import BusinessMap from "@/pages/home/components/BusinessMap.vue";
 import BusinessContents from "@/pages/home/components/BusinessContents.vue";
 import DataSlideGroups from "@/pages/home/components/DataSlideGroups.vue";
+import {computed} from "vue";
+import { useDisplay} from "vuetify";
+const { name } = useDisplay();
+const isMobile = computed(() => name.value === 'xs');
 
-import {computed} from 'vue';
-
-
-const footerItem = [
-  {
-    title: '友情链接',
-    path: '/unknown',
-    childItem: [
-      {
-        title: '蓝楹会',
-        path: '/about/1',
-      },
-      {
-        title: '蓝楹会',
-        path: '/about/2',
-      },
-      {
-        title: '蓝楹会',
-        path: '/about/3',
-      },
-      {
-        title: '蓝楹会',
-        path: '/about/4',
-      },
-    ]
-  },
-  {
-    title: '联系我们',
-    path: '/unknown',
-    childItem: []
-  },
-  {
-    title: '社交媒体',
-    path: '/unknown',
-    childItem: []
-  }
-];
 
 </script>
 
 <template>
   <div>
     <!-- todo 切换成社团的图片 或者接个图床? -->
-    <v-carousel cycle interval="3000" hide-delimiters show-arrows="hover">
+    <v-carousel cycle interval="3000" height="300" hide-delimiters show-arrows="hover">
       <v-carousel-item
           src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
           cover
@@ -91,37 +58,11 @@ const footerItem = [
       </v-sheet>
     </v-container>
 
-    <v-container>
-      <v-row>
-        <v-col v-for="itemParent in footerItem" cols="2">
-          <div class="custom-title">
-            <a :href="itemParent.path"> {{ itemParent.title }}  </a>
-          </div>
-
-          <div v-for="itemChild in itemParent.childItem" class="my-3">
-            <a :href="itemChild.path">{{ itemChild.title }}</a>
-          </div>
-        </v-col>
-        <v-col cols="6">
-          二维码区域
-        </v-col>
-      </v-row>
-    </v-container>
+    <pageFooter/>
   </div>
 </template>
 
 <style scoped>
-.custom-title {
-  font-weight: bold;
-  border-left: 5px solid #333; /* 可以自定义线的颜色 */
-  padding-left: 10px; /* 为了使竖线与文本有些许间隔 */
-  margin-bottom: 20px;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
 
 </style>
 

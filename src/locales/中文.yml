@@ -29,6 +29,10 @@ home:
   title: 首页
   learnMore: 了解更多
   publicArticles: 发布文章
+  DataSlideGroups:
+    title: 名称
+    value: 数值
+    rate: 百分比
 
 about:
   title: 关于蓝楹会

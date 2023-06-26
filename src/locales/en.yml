@@ -29,6 +29,10 @@ home:
   title: Home
   learnMore: Learn more
   publicArticles: Published an article
+  DataSlideGroups:
+    title: 名字
+    value: 数值
+    rate: 百分比
 
 about:
   title: About
