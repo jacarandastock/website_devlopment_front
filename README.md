@@ -1,9 +1,15 @@
-# 蓝楹会官网前端重建 website_devlopment_front
+
+<p align="center">
+  <a href="https://github.com/jacarandastock/website_devlopment_front">
+    <img src="assets/jacarandastock.png" width="200" height="238" alt="jacaranda stock">
+  </a>
+</p>
+<div align="center">
+# 蓝楹会官网
 
 
-## 使用 vuetify-3-template 模板
+</div>
 
-This template should help get you started developing with Vuetify 3 in Vite using Typescript.
 
 ## Features
 
@@ -65,3 +71,11 @@ Lint the project
 ```bash
 yarn lint
 ```
+
+# Contributor
+
+<a href="https://github.com/jacarandastock/website_devlopment_front/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jacarandastock/website_devlopment_front" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
