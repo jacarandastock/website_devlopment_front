@@ -4,9 +4,19 @@
     <img src="assets/jacarandastock.png" width="200" height="238" alt="jacaranda stock">
   </a>
 </p>
+
 <div align="center">
+  
 # 蓝楹会官网
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/jacarandastock/website_devlopment_front/master/LICENSE">
+    <img src="https://img.shields.io/github/license/jacarandastock/website_devlopment_front" alt="license">
+  </a>
+  <a href="https://github.com/jacarandastock/website_devlopment_front/actions">
+    <img src="https://github.com/jacarandastock/website_devlopment_front/workflows/Docker Image CI/badge.svg" alt="action">
+  </a>
+</p>
 
 </div>
 
