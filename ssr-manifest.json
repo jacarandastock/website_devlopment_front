@@ -21,7 +21,7 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
   "\u0000/home/runner/work/website_devlopment_front/website_devlopment_front/node_modules/apexcharts/dist/apexcharts.common.js?commonjs-module": [
-    "/website_devlopment_front/assets/vue3-apexcharts.common-03daf85d.js"
+    "/website_devlopment_front/assets/vue3-apexcharts.common-ed1a24d1.js"
   ],
   "\u0000/home/runner/work/website_devlopment_front/website_devlopment_front/node_modules/vue/dist/vue.cjs.js?commonjs-exports": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -45,7 +45,7 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
   "\u0000/home/runner/work/website_devlopment_front/website_devlopment_front/node_modules/vue3-apexcharts/dist/vue3-apexcharts.common.js?commonjs-module": [
-    "/website_devlopment_front/assets/vue3-apexcharts.common-03daf85d.js"
+    "/website_devlopment_front/assets/vue3-apexcharts.common-ed1a24d1.js"
   ],
   "\u0000commonjsHelpers.js": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -151,6 +151,237 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-c1c004a9.woff2",
     "/website_devlopment_front/assets/materialdesignicons-webfont-80bb28b3.woff",
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
+  ],
+  "node_modules/@popperjs/core/lib/createPopper.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/contains.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getBoundingClientRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getClippingRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getCompositeRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getComputedStyle.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getDocumentElement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getDocumentRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getHTMLElementScroll.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getNodeName.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getNodeScroll.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getOffsetParent.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getParentNode.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getScrollParent.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getViewportRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getWindow.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getWindowScroll.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/getWindowScrollBarX.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/instanceOf.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/isLayoutViewport.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/isScrollParent.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/isTableElement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/dom-utils/listScrollParents.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/enums.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/applyStyles.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/arrow.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/computeStyles.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/eventListeners.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/flip.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/hide.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/offset.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/popperOffsets.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/modifiers/preventOverflow.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/popper.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/computeAutoPlacement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/computeOffsets.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/debounce.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/detectOverflow.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/expandToHashMap.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getAltAxis.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getBasePlacement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getFreshSideObject.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getMainAxisFromPlacement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getOppositePlacement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getOppositeVariationPlacement.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/getVariation.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/math.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/mergeByName.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/mergePaddingObject.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/orderModifiers.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/rectToClientRect.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/userAgent.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@popperjs/core/lib/utils/within.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/core/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-blockquote/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-bold/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-bubble-menu/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-bullet-list/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-code-block/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-code/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-document/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-dropcursor/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-floating-menu/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-gapcursor/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-hard-break/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-heading/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-history/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-horizontal-rule/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-italic/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-list-item/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-ordered-list/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-paragraph/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-strike/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/extension-text/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/starter-kit/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/@tiptap/vue-3/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
   ],
   "node_modules/@unhead/dom/dist/index.mjs": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -272,7 +503,7 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
   "node_modules/apexcharts/dist/apexcharts.common.js": [
-    "/website_devlopment_front/assets/vue3-apexcharts.common-03daf85d.js"
+    "/website_devlopment_front/assets/vue3-apexcharts.common-ed1a24d1.js"
   ],
   "node_modules/hookable/dist/index.mjs": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -281,12 +512,51 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-80bb28b3.woff",
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
+  "node_modules/orderedmap/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
   "node_modules/pinia/dist/pinia.mjs": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
     "/website_devlopment_front/assets/materialdesignicons-webfont-67d24abe.eot",
     "/website_devlopment_front/assets/materialdesignicons-webfont-c1c004a9.woff2",
     "/website_devlopment_front/assets/materialdesignicons-webfont-80bb28b3.woff",
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
+  ],
+  "node_modules/prosemirror-commands/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-dropcursor/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-gapcursor/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-history/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-keymap/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-model/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-schema-list/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-state/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-transform/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/prosemirror-view/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/rope-sequence/dist/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
+  "node_modules/tippy.js/dist/tippy.esm.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
   ],
   "node_modules/unhead/dist/index.mjs": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -352,7 +622,7 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
   "node_modules/vue3-apexcharts/dist/vue3-apexcharts.common.js": [
-    "/website_devlopment_front/assets/vue3-apexcharts.common-03daf85d.js"
+    "/website_devlopment_front/assets/vue3-apexcharts.common-ed1a24d1.js"
   ],
   "node_modules/vuetify/lib/blueprints/md3.mjs": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -2426,6 +2696,9 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-80bb28b3.woff",
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
+  "node_modules/w3c-keyname/index.js": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
   "src/App.vue": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
     "/website_devlopment_front/assets/materialdesignicons-webfont-67d24abe.eot",
@@ -2454,44 +2727,47 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-80bb28b3.woff",
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
+  "src/components/Tiptap.vue": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
   "src/components/blocks/LocaleToggler.vue": [
-    "/website_devlopment_front/assets/Logo-04ae6ee1.js"
+    "/website_devlopment_front/assets/Logo-fab72c64.js"
   ],
   "src/components/blocks/LocaleToggler.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/Logo-04ae6ee1.js"
+    "/website_devlopment_front/assets/Logo-fab72c64.js"
   ],
   "src/components/blocks/Logo.vue": [
-    "/website_devlopment_front/assets/Logo-04ae6ee1.js"
+    "/website_devlopment_front/assets/Logo-fab72c64.js"
   ],
   "src/components/blocks/Logo.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/Logo-04ae6ee1.js"
+    "/website_devlopment_front/assets/Logo-fab72c64.js"
   ],
   "src/components/blocks/LogoIcon.vue": [
-    "/website_devlopment_front/assets/HomeLayout-9af3050d.js"
+    "/website_devlopment_front/assets/HomeLayout-2c58d9d6.js"
   ],
   "src/components/blocks/LogoIcon.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/HomeLayout-9af3050d.js"
+    "/website_devlopment_front/assets/HomeLayout-2c58d9d6.js"
   ],
   "src/components/blocks/PageFooter.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/components/blocks/PageFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/components/blocks/PageFooter.vue?vue&type=style&index=0&scoped=7ce5012b&lang.css": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/components/blocks/ThemeToggler.vue": [
-    "/website_devlopment_front/assets/ThemeToggler-a1e2196c.js"
+    "/website_devlopment_front/assets/ThemeToggler-75e1a215.js"
   ],
   "src/components/blocks/ThemeToggler.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/ThemeToggler-a1e2196c.js"
+    "/website_devlopment_front/assets/ThemeToggler-75e1a215.js"
   ],
   "src/components/blocks/jacarandastock_qrcode.png": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/composables/useAppI18n.ts": [
@@ -2516,16 +2792,16 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
   "src/layouts/DashboardLayout.vue": [
-    "/website_devlopment_front/assets/DashboardLayout-05754ed6.js"
+    "/website_devlopment_front/assets/DashboardLayout-bc024022.js"
   ],
   "src/layouts/DashboardLayout.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/DashboardLayout-05754ed6.js"
+    "/website_devlopment_front/assets/DashboardLayout-bc024022.js"
   ],
   "src/layouts/HomeLayout.vue": [
-    "/website_devlopment_front/assets/HomeLayout-9af3050d.js"
+    "/website_devlopment_front/assets/HomeLayout-2c58d9d6.js"
   ],
   "src/layouts/HomeLayout.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/HomeLayout-9af3050d.js"
+    "/website_devlopment_front/assets/HomeLayout-2c58d9d6.js"
   ],
   "src/layouts/default.vue": [
     "/website_devlopment_front/assets/Cairo-a25088d8.ttf",
@@ -2556,89 +2832,92 @@
     "/website_devlopment_front/assets/materialdesignicons-webfont-a58ecb54.ttf"
   ],
   "src/pages/About.vue": [
-    "/website_devlopment_front/assets/About-9da62a2d.js",
+    "/website_devlopment_front/assets/About-61af3785.js",
     "/website_devlopment_front/assets/About-4d995ba2.css"
   ],
   "src/pages/About.vue?vue&type=style&index=0&lang.css": [
-    "/website_devlopment_front/assets/About-9da62a2d.js",
+    "/website_devlopment_front/assets/About-61af3785.js",
     "/website_devlopment_front/assets/About-4d995ba2.css"
   ],
   "src/pages/[...all].vue": [
-    "/website_devlopment_front/assets/_...all_-26a66d54.js",
+    "/website_devlopment_front/assets/_...all_-069b5e2c.js",
     "/website_devlopment_front/assets/_...all_-83ede320.css"
   ],
   "src/pages/[...all].vue?vue&type=style&index=0&scoped=e9f0bf08&lang.css": [
-    "/website_devlopment_front/assets/_...all_-26a66d54.js",
+    "/website_devlopment_front/assets/_...all_-069b5e2c.js",
     "/website_devlopment_front/assets/_...all_-83ede320.css"
   ],
+  "src/pages/article/index.vue": [
+    "/website_devlopment_front/assets/index-ac89161b.js"
+  ],
   "src/pages/dashboard/overview/components/RentalFrequency.vue": [
-    "/website_devlopment_front/assets/index-125eeaf0.js"
+    "/website_devlopment_front/assets/index-e3d704cb.js"
   ],
   "src/pages/dashboard/overview/components/RentalFrequency.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-125eeaf0.js"
+    "/website_devlopment_front/assets/index-e3d704cb.js"
   ],
   "src/pages/dashboard/overview/components/StatCardOverview.vue": [
-    "/website_devlopment_front/assets/index-125eeaf0.js"
+    "/website_devlopment_front/assets/index-e3d704cb.js"
   ],
   "src/pages/dashboard/overview/index.vue": [
-    "/website_devlopment_front/assets/index-125eeaf0.js"
+    "/website_devlopment_front/assets/index-e3d704cb.js"
   ],
   "src/pages/dashboard/overview/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-125eeaf0.js"
+    "/website_devlopment_front/assets/index-e3d704cb.js"
   ],
   "src/pages/dashboard/rentals/index.vue": [
-    "/website_devlopment_front/assets/index-04b6578d.js"
+    "/website_devlopment_front/assets/index-c0fb7164.js"
   ],
   "src/pages/home/components/ArticleHorizontalLabel.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/ArticleHorizontalLabel.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/BusinessContents.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/BusinessContents.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/BusinessContents.vue?vue&type=style&index=0&scoped=472a1d1a&lang.css": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/BusinessMap.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/BusinessMap.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/BusinessMap.vue?vue&type=style&index=0&scoped=add61232&lang.css": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/CategoryBanner.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/DataSlideGroups.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/components/DataSlideGroups.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/index.vue": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/home/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/website_devlopment_front/assets/index-ae55e379.js",
+    "/website_devlopment_front/assets/index-13c92106.js",
     "/website_devlopment_front/assets/index-dbda24a1.css"
   ],
   "src/pages/index.vue": [
