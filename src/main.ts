@@ -10,10 +10,10 @@ import generatedRoutes from '~pages'
 import i18n from './plugins/i18n'
 import { setupLayouts } from 'virtual:generated-layouts'
 import vuetify from './plugins/vuetify'
-
+import { createWebHashHistory } from 'vue-router'
 const routes = setupLayouts(generatedRoutes)
 
-export const createApp = ViteSSG(App, { routes, base: import.meta.env.BASE_URL }, ({ app, isClient }) => {
+export const createApp = ViteSSG(App, { routes, history: createWebHashHistory(), base: import.meta.env.BASE_URL }, ({ app, isClient }) => {
     app.use(createPinia())
     app.use(vuetify)
     app.use(createHead())

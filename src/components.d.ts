@@ -14,7 +14,6 @@ declare module '@vue/runtime-core' {
     BusinessMap: typeof import('./pages/home/components/BusinessMap.vue')['default']
     CategoryBanner: typeof import('./pages/home/components/CategoryBanner.vue')['default']
     DataSlideGroups: typeof import('./pages/home/components/DataSlideGroups.vue')['default']
-    Footer: typeof import('./components/blocks/Footer.vue')['default']
     LocaleToggler: typeof import('./components/blocks/LocaleToggler.vue')['default']
     Logo: typeof import('./components/blocks/Logo.vue')['default']
     LogoIcon: typeof import('./components/blocks/LogoIcon.vue')['default']
@@ -25,6 +24,7 @@ declare module '@vue/runtime-core' {
     Settings: typeof import('./components/blocks/Settings.vue')['default']
     StatCardOverview: typeof import('./pages/dashboard/overview/components/StatCardOverview.vue')['default']
     ThemeToggler: typeof import('./components/blocks/ThemeToggler.vue')['default']
+    Tiptap: typeof import('./components/Tiptap.vue')['default']
     ToggleDirection: typeof import('./components/blocks/ToggleDirection.vue')['default']
   }
 }
